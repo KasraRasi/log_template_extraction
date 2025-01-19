@@ -1,0 +1,2 @@
+,Dataset,Rouge-1,Rouge-2,Rouge-L,BLEU,PA,PTA,RTA
+0,Hadoop,70.650050,59.752422,70.618638,0.40,0.04,0.03,0.16

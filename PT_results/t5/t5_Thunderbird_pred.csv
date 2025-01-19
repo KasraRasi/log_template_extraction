@@ -1,0 +1,201 @@
+,predictions,references,correct
+0,synchronized to *>,"synchronized to *>, stratum *>",False
+0,data_threat() got not answer from any (thrust) datasource source.,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,*>############*>,"apic_id *>, version *>, address *>,",False
+0,datasource_thread() got not answer from any [Thunderbird_d4] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,data_thread() got not answer from any [Thunderbird_*> datasource>] datasource has not changed,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,"synchronized to $>>, stratum *>","synchronized to *>, stratum *>",False
+0,data_threar() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,synchronized to synchronized to *>,"synchronized to *>, stratum *>",False
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,"data_thread() got not answer from any datasource, data_next_*>",data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,[ib_sm_sweep.c:]: No configuration,[ib_sm_sweep.c:1482]: No configuration change required,False
+0,"synchronized to *>, stratum *>","synchronized to *>, stratum *>",True
+0,data_thread() got not from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,the code *> gets not answer from any *>> data_thread()>,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,[ib_sm_sweep.c:1831]: ***************,[ib_sm_sweep.c:1831]: ********************** NEW,False
+0,"synchronized to 10.100.18.250, stratum *>","synchronized to *>, stratum *>",False
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,data_thread() got not answer from any [Thunderbird_A4] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,data_thread() got not answer from any [Thunderbird*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,session closed for user root,session closed for user root,True
+0,itpsertsrrrrr *>,registered new driver usbfs,False
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,9.0 compression ratio - *>,"synchronized to *>, stratum *>",False
+0,"synchronized to *>, stratum *>","synchronized to *>, stratum *>",True
+0,data_thread() got not answer from any (Thunderbird_*>) datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,"synchronized to *>, stratum *>","synchronized to *>, stratum *>",True
+0,DHCPDISCOVER from 00:11:43:e3:ba:a,DHCPDISCOVER from *> via eth1: network A_net: no,False
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,"synchronized to *> to 10.100.20.>, straton 3","synchronized to *>, stratum *>",False
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,"sync to synchronized to *>, stratum *>","synchronized to *>, stratum *>",False
+0,*> *>,[ib_sm_sweep.c:1831]: ********************** NEW,False
+0,session closed for user root,session closed for user root,True
+0,the data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,data_thread() doesn't get answer to data source of [Thunderbird_*>],data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,*> import *> from sorted list of supported formats>>,"apic_id *>, version *>, address *>,",False
+0,session closes for user root,session closed for user root,False
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,"synchronized to *>, stratum *>","synchronized to *>, stratum *>",True
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,"syncution up to 10.100.18.250, stratum *>","synchronized to *>, stratum *>",False
+0,"synchronized to *>, stratum *>","synchronized to *>, stratum *>",True
+0,No configuration *>,[ib_sm_sweep.c:1482]: No configuration change required,False
+0,updated version:[6B] fw version:[516A] bios version:[2] fw version:[H418],fw version:[*>] bios version:[*>],False
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,"synchronized to, stratum *>","synchronized to *>, stratum *>",False
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,data_thread() got not answer from any [Thunderbird_*>] data source,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,data_thread() got not answer from any [Thashbird_*>] data source,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,data_thread() got not answer by any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,"synchronized to *>, stratum *>, stratum *>","synchronized to *>, stratum *>",False
+0,Registered protocol family 10,Registered protocol family *>,False
+0,"synchronized to 0,03.103100, stratum *>, stratum *>","synchronized to *>, stratum *>",False
+0,jA9JB *>,"*>: from=root, size=*>, class=*>, n",False
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,data_thread() got answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,"synchronized to *>, stratum *>","synchronized to *>, stratum *>",True
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,session opened for user root by (uid=*>),session opened for user root by (uid=0),False
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,PS/2 mouse device common for all mice,PS/*> mouse device common for all mice,False
+0,"synchronized to *>, stratum *>","synchronized to *>, stratum *>",True
+0,synchronized to *>,"synchronized to *>, stratum *>",False
+0,Tract cache: *>*> L1 D cache *>,"Trace cache: *> uops, L1 D cache: *>",False
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,PCI interrupt 00000:00:060[A] -> GSI *> (level - a) -> GSI 16 (level,"PCI interrupt *> -> GSI *> (level, low) ->",False
+0,Warning: we failed to resolve name *> in data source name *>,Warning: we failed to resolve data source name *>,False
+0,PCI interrupt 0000:02:0 e.0[A] -> *>[A][F)[*>][A][A*>][A],"PCI interrupt *> -> GSI *> (level, low) ->",False
+0,*> : ********>,[ib_sm_sweep.c:1831]: ********************** NEW,False
+0,data_thread() got not answer from any *> datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,RRD_update (/var/lib/ganglia/rrds/,RRD_update (/var/lib/ganglia/rrds/*>,False
+0,binder defined (established 262144 *>),Hash tables configured (established *> bind *>),False
+0,"synchronized to *>, stratum 3","synchronized to *>, stratum *>",False
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,"sync) synchronized to *>, stratum -->","synchronized to *>, stratum *>",False
+0,session closed for user root,session closed for user root,True
+0,data_thread() got answer from *>,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,"sync to synchronized to *>, stratum 3","synchronized to *>, stratum *>",False
+0,Characters are unskipped at runtime.,Disabled at runtime.,False
+0,"synchronized to *>, stratum *>","synchronized to *>, stratum *>",True
+0,data_thread(0) got answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,"synchronized to *>, stratum *>","synchronized to *>, stratum *>",True
+0,startup xinetd was successful,xinetd startup succeeded,False
+0,"synchronized to *>, stratum *>, stratum *>*>","synchronized to *>, stratum *>",False
+0,"synchronized to *>, stratum 3 *>","synchronized to *>, stratum *>",False
+0,STARTED - worked: 0 available service,Started working: *> available service,False
+0,data_thread() got not answer from any [Thunderbird *>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,(IB_sm_sweep.c:-1482): No configuration ->,[ib_sm_sweep.c:1482]: No configuration change required,False
+0,There is no configuration setter,[ib_sm_sweep.c:1482]: No configuration change required,False
+0,spectra *> *>,Warning: we failed to resolve data source name *>,False
+0,data_thread() got not answer from any (Thunderbird_*>) datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,data_thread() got not answer from any of [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,Interrupt Routing Table [_SB_.PCI0./>] PICH is a subset of the last row.,PCI Interrupt Routing Table [*>],False
+0,"synchronized to *>, stratum *>","synchronized to *>, stratum *>",True
+0,synchronized to *>,"synchronized to *>, stratum *>",False
+0,"synchronized to *>, stratum *>","synchronized to *>, stratum *>",True
+0,data_thread() got not answer from any [Thirdunderbird_*> datasource] datasource: *>,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,data_thread() not got answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,data_thread() got not answer from the [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,data_thread() got not answer from any [Thunderbird *>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,Amount of copied files with ordered data mode,mounted filesystem with ordered data mode.,False
+0,"synchronized to *>, stratum *>","synchronized to *>, stratum *>",True
+0,synchronized to synchronized to *>,"synchronized to *>, stratum *>",False
+0,"*>>: to=root, ctr>, *>","*>: to=root, ctladdr=root (0/0), delay=",False
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,"Synchronized to *>, stratum *>","synchronized to *>, stratum *>",False
+0,data_thread() got not answer from any (*>) datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,Enabled Configuration file,Reading included configuration file: *> [file=*>] [line=*>],False
+0,I'm unqualified host name (badmin1) - sleeping for retry.,My unqualified host name (*>) unknown; sleeping for retry,False
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,"synchronized to *>, stratum *>, stratum *>","synchronized to *>, stratum *>",False
+0,data_thread() got not answer from any [Thunderbird_diff*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,synchronized to 10.10*>,"synchronized to *>, stratum *>",False
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,DONE,... autorun DONE.,False
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,"synchronized to *>, stratum *>, stratum *>","synchronized to *>, stratum *>",False
+0,DHCPOFFER on *> on 10.100.4.251 to *> to 00:11:43:e,DHCPOFFER on *> to *> via eth1,False
+0,data_thread() got not answer from any [Thunderbird_*] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,"synchronized to 10,100.*>, stratum *>","synchronized to *>, stratum *>",False
+0,The top is on the bottom of the list.,[ib_sm_sweep.c:1455]: No topology change,False
+0,unable to qualify my own domain name (disadvt) -- using short name,unable to qualify my own domain name (*>) -- using short name,False
+0,"Stock index changed to *> and indexes *>, stratum *>","synchronized to *>, stratum *>",False
+0,*>,Registered protocol family *>,False
+0,"synchronized to 10.100.28.250, stratum *>","synchronized to *>, stratum *>",False
+0,data_thread() got not answer from any [Thunderbird_*>>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,"synchronized to 10,100.20.250, stratum *>","synchronized to *>, stratum *>",False
+0,data-thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,"RNG not detected, stock, node or traffic lights turned up)",RNG not detected,False
+0,synchronized to *>,"synchronized to *>, stratum *>",False
+0,"synchronized to 10.100.20.*>, stratum *>","synchronized to *>, stratum *>",False
+0,synchronized to *>*>,"synchronized to *>, stratum *>",False
+0,data_thread() got not answer from any [Thunderbird*>] source,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,"synchronized to 0,100.185.850, stratum *>","synchronized to *>, stratum *>",False
+0,data_thread() got no answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,[ib_sm_sweep.c:143]: No configuration,[ib_sm_sweep.c:1482]: No configuration change required,False
+0,"synchronized to *>, stratum *>","synchronized to *>, stratum *>",True
+0,"md driver 0.90.0 MAX_M*>, md_name=**",md driver *>.*>.*> MAX_MD_DEVS,False
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,data_thread() got not answer from any [Thunderbird_*>] data source,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,for data_thread() got answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,Power Button (*>),Power Button (FF) [PWRF],False
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,synchronized to *>*>,"synchronized to *>, stratum *>",False
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,eth0: e000_probe: Intel (R) - PRO/1000 Network,eth*>: *>: Intel(R) PRO/*> Network Connection,False
+0,"synchronized to 10.100.20.250, stratum 3","synchronized to *>, stratum *>",False
+0,data_threat() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,"synchronized to *>, stratum *>","synchronized to *>, stratum *>",True
+0,data_thread() got not answer from any [Thunderbird_*> datasource ],data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,"synchronized to *>, stratum *>","synchronized to *>, stratum *>",True
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,"Synchroidiert to *>, stratum *>","synchronized to *>, stratum *>",False
+0,"The track cache should be *>**>, L1 *> cache: *>*>","Trace cache: *> uops, L1 D cache: *>",False
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,"synchronized to *>, stratum *>","synchronized to *>, stratum *>",True
+0,data_thread() got answer from any [Thunderbird_*>) datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,"synchronized to *>, stratum *>","synchronized to *>, stratum *>",True
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,tftp IDEd=16563 from=*>,START: tftp pid=*> from=*>,False
+0,"synchronized to *>, stratum *>","synchronized to *>, stratum *>",True
+0,data_thread() got not answer from any *> datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,data_thread() got not answer from any [Thunderbird_*> datasource[>],data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,data_thread() got not answer from any [Their_bonds] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,The data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,"synchronized to *>, stratum *>","synchronized to *>, stratum *>",True
+0,data_thread() got not answer from any [Thunderbird] datasource./>,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,"synchronized to *>, stratum *>","synchronized to *>, stratum *>",True
+0,"synchronized to *>, stratum *>","synchronized to *>, stratum *>",True
+0,data_thread() got not answer from any[Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,False
+0,"synchronized to *>, stratum *>","synchronized to *>, stratum *>",True
+0,[*>,PCI Interrupt Routing Table [*>],False
+0,Physical Processor ID: 0,Physical Processor ID: *>,False
+0,*>,"synchronized to *>, stratum *>",False
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,*> *>: name: *>,Warning: we failed to resolve data source name *>,False
+0,data_thread() got not answer from any [Thunderbird_*>] datasource,data_thread() got not answer from any [Thunderbird_*>] datasource,True
+0,"syncronized to *>, stratum *>","synchronized to *>, stratum *>",False
+0,session closed for user root,session closed for user root,True
+0,Local disconnected: Connection closed.,Local disconnected: Connection closed.,True
+0,*> *>,(root) CMD (/projects/tbird/temps/get_temps *,False
+0,Using configuration type 1. Using type B*>>,Using configuration type *>,False
+0,Synclied to *>,"synchronized to *>, stratum *>",False
+0,"synchronized to *>, stratum *>","synchronized to *>, stratum *>",True

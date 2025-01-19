@@ -1,0 +1,2 @@
+,Dataset,Rouge-1,Rouge-2,Rouge-L,BLEU,PA,PTA,RTA
+0,Thunderbird,78.981860,69.879613,78.497067,0.66,0.35,0.03,0.10

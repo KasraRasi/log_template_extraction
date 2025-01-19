@@ -1,0 +1,201 @@
+,predictions,references,correct
+0,PacketResponder *> for block blk_*> terminating,PacketResponder *> for block blk_*> terminating,True
+0,PacketResponder2 for block blk_*> terminating,PacketResponder *> for block blk_*> terminating,False
+0,Receiving block blk_*> s*> dest: /*> *>:*> dest: /*>:*>,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,Received block blk_*> size *> of size *> from /*>,Received block blk_*> of size *> from /*>,False
+0,BLOCK* NameSystem.delete: blk_*> is added to invalidate*>,BLOCK* NameSystem.delete: blk_*> is added to invalidSet of *>:*>,False
+0,BLOCK* NameSystem.appstoredBlock: blockMap updated: *> size *>:Z>: *> size *>,BLOCK* NameSystem.addStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,False
+0,BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.123.195:50010 is added to blk_*> size *> is added to size *>,BLOCK* NameSystem.addStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,False
+0,PacketResponder *>:*> for block Blk_*>> terminating,PacketResponder *> for block blk_*> terminating,False
+0,Deleting block blk_*> of blk_*> *> file /mnt/hadoop/dfs/data/current/subdir35/blk,Deleting block blk_*> file /*>/blk_*>,False
+0,*>:*>,*>:*> Served block blk_*> to /*>,False
+0,BLOCK* NameSystem.addStoredBlock:*> size *>,BLOCK* NameSystem.addStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,False
+0,*>> name system. *>,BLOCK* NameSystem.allocateBlock: /*>/part-*>. blk_*>,False
+0,PacketResponder2 for block blk_*> terminating,PacketResponder *> for block blk_*> terminating,False
+0,"BLOCK* NameSystem.addStoredBlock: blockMap updated: *> is added to blk_*>, size 67108864, *> size *>",BLOCK* NameSystem.addStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,False
+0,**>:*>God knows more>*>:*> to /10.250.11.100:*>,*>:*>:Got exception while serving blk_*> to /*>:,False
+0,BLOCK* NameSystem.dll_*> storedBlock: blockMap updated: *>.SI> is added to blk_*> size *>,BLOCK* NameSystem.addStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,False
+0,Blk_*> of size *> from *> of size *>,Received block blk_*> of size *> from /*>,False
+0,PacketResponder 0 for block blk_*> for block blk_*> terminating>,PacketResponder *> for block blk_*> terminating,False
+0,PacketResponder *> for block blk_*> terminating,PacketResponder *> for block blk_*> terminating,True
+0,Received block blk_*> from /*> from /*> from /*> from /*>,Received block blk_*> of size *> from /*>,False
+0,PacketResponder> for block blk_*> ending*>,PacketResponder *> for block blk_*> terminating,False
+0,Verification succeeded for blk_*>,Verification succeeded for blk_*>,True
+0,PacketResponder *> for block blk_*> terminating,PacketResponder *> for block blk_*> terminating,True
+0,NameSystem.addStoredBlock: blockMap updated: *> is added to blk_*> *> size *>,BLOCK* NameSystem.addStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,False
+0,Deleting block blk_*> deleting block blk_*> file /*>,Deleting block blk_*> file /*>/blk_*>,False
+0,Deleting block blk_*> file /*> of the actual copy file /*>,Deleting block blk_*> file /*>/blk_*>,False
+0,BLOCK* NameSystem.delete: blk_**> is added to invalid Set of *>:*>,BLOCK* NameSystem.delete: blk_*> is added to invalidSet of *>:*>,False
+0,BLOCK* NameSystem.allocateBlock: /_*>/ part-02:/*>,BLOCK* NameSystem.allocateBlock: /*>/part-*>. blk_*>,False
+0,BLOCK* NameSystem.delete: blk_*> *> is added to invalidSet of *>:*>,BLOCK* NameSystem.delete: blk_*> is added to invalidSet of *>:*>,False
+0,BLOCK* NameSystem.int *> size *> is added to blk_*> size *>,BLOCK* NameSystem.addStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,False
+0,PacketResponser *> for block blk_*> terminating,PacketResponder *> for block blk_*> terminating,False
+0,Received block blk_*> of size *>,Received block blk_*> of size *> from /*>,False
+0,PacketResembler *> for block blk_*> terminating,PacketResponder *> for block blk_*> terminating,False
+0,****,*>:*>:Got exception while serving blk_*> to /*>:,False
+0,PacketResponder *> for block blk_*> terminating,PacketResponder *> for block blk_*> terminating,True
+0,Openstuff/_task__*> schema: /user/root/txt/_term_/>/*>/*>,BLOCK* NameSystem.allocateBlock: /*>/part-*>. blk_*>,False
+0,Verification was *> for klk_>/*>,Verification succeeded for blk_*>,False
+0,PacketResponder[1:*> terminateing,PacketResponder *> for block blk_*> terminating,False
+0,Received block blk_*> from /10.*>,Received block blk_*> of size *> from /*>,False
+0,Responder 2 for block blk_*> terminating,PacketResponder *> for block blk_*> terminating,False
+0,Receiving block blk_3405037/*> s*>:*>:*>:*> result: /*>:*>:*,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,BLOCK*: nameSystem.addStoredBlock: blockMap updated: *> is added to blk_*>:*>:*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,False
+0,*>:*> *>,Received block blk_*> of size *> from /*>,False
+0,Receiving block blk_*>,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,It was not a good choice,*>:*> Served block blk_*> to /*>,False
+0,Received block blk_*> received blk_*> from /*> from /10.2251.1984.313 received block blk_*> from /*,Received block blk_*> of size *> from /*>,False
+0,Deleting block blk_*>:*> file /*>,Deleting block blk_*> file /*>/blk_*>,False
+0,Receiving block pws:> ww :/ww src: /w /w /w /w /w,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,Receiving block src: /10.251.126.227:42572 db: /10.251.126.227:427.Src: /10.251.126.227:42,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,BLOCK* NameSystem.applyStoredBlock: blockMap updated:*> is added to blk_*> in a*> size 67*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,False
+0,BLOCK* Name System.allocateBlock: /user/root/rand5/__task_200811101024_0011_m_002_*>,BLOCK* NameSystem.allocateBlock: /*>/part-*>. blk_*>,False
+0,Verification succeeded for blk_*>. blk_*>,Verification succeeded for blk_*>,False
+0,BLOCK* NameSystem.addStoredBock: blockMap updated: *>:*> is added to blk_*>:*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,False
+0,Deleting block blk_*> file /mnt/hadoop/dfs/data/current/subdir40/blk_*> subcid// subdir40/,Deleting block blk_*> file /*>/blk_*>,False
+0,The holder blk_*> served block blk_*> to *> to /*> to /10.*>,*>:*> Served block blk_*> to /*>,False
+0,*> *>:>>:*>,*>:*>:Got exception while serving blk_*> to /*>:,False
+0,Add StoredBlock: blockMap is added to blk_*> size *>,BLOCK* NameSystem.addStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,False
+0,BLOCK* NameSystem.addStoredBlock: blockMap updated: –>. *>:*> is added to blk_*> size *>,BLOCK* NameSystem.addStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,False
+0,PacketResponder 2 for block blk_*> terminating,PacketResponder *> for block blk_*> terminating,False
+0,The received block blk_*> of size 28496610 from *> from /10.45.19.227 from *>*>,Received block blk_*> of size *> from /*>,False
+0,BLOCK* NameSystem.delete: blk_*> is added to invalidSet of *>,BLOCK* NameSystem.delete: blk_*> is added to invalidSet of *>:*>,False
+0,blk_*> of size :*> received blk_*> from /10.251.198.0 117.,Received block blk_*> of size *> from /*>,False
+0,D-*> NameSystem.delete: *>:*>,BLOCK* NameSystem.delete: blk_*> is added to invalidSet of *>:*>,False
+0,DST: /*>:>*>,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,BLOCK* NameSystem.delete: blk_*>: blk_*> is added to invalidSet of *>:*>:*>,BLOCK* NameSystem.delete: blk_*> is added to invalidSet of *>:*>,False
+0,Verification unsuccessful for blk_*>:*>,Verification succeeded for blk_*>,False
+0,NameSystem.addStoredBlock: blockMap updated: /*> is added to blk_*> in size *> size *>,BLOCK* NameSystem.addStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,False
+0,*> src>: *>:>:>:>:*>:>:>:>:> *>:*>,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,BLOCK* NameSystem.dxt name system *> is added to invalidSet of *>,BLOCK* NameSystem.delete: blk_*> is added to invalidSet of *>:*>,False
+0,Deleting block blk_*>/*>/blk_*>:/*>,Deleting block blk_*> file /*>/blk_*>,False
+0,Receiving block blk_*>: *>,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,The received block blk_*> of size *> from /*> from /10.250.,Received block blk_*> of size *> from /*>,False
+0,Deleting block *>Blk_*> /*> file /mnt/hadoop/data/conditions/blk_*>,Deleting block blk_*> file /*>/blk_*>,False
+0,Receiving block blk_*> sender's attention to the receiver.,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,Received block blk_*> from /*>,Received block blk_*> of size *> from /*>,False
+0,PacketResponder2 for block blk_*> terminating /> for block blk_*> /*> terminating,PacketResponder *> for block blk_*> terminating,False
+0,The received block blk_*> of size *> from / *> from /*>,Received block blk_*> of size *> from /*>,False
+0,BLOCK* NameSystem.addStoredBlock: blockMap updated: *> is added to blk_*> size *>,BLOCK* NameSystem.addStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,False
+0,Served block blk_*> to /10.251.121.21.255,*>:*> Served block blk_*> to /*>,False
+0,*> *>,BLOCK* NameSystem.addStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,False
+0,BLOCK* NameSystem.addStoredBlock: blockMap updated: *>,BLOCK* NameSystem.addStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,False
+0,Receiving block blk_*> src: /*:*> dest: /*>,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,Deleting block blk_*>:*> deleting block *> decrypts /*> block blk_*>,Deleting block blk_*> file /*>/blk_*>,False
+0,BLOCK* ask blk_*> to delete blk_*>,BLOCK* ask *>:*> to delete blk_*>,False
+0,Received block blk_*> of size *> from *>,Received block blk_*> of size *> from /*>,False
+0,BLOCK* NameSystem.add *>:*> is added to blk_*> size *>:*>BlockedBlock*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,False
+0,PacketResponder *> terminating,PacketResponder *> for block blk_*> terminating,False
+0,Receiver blk_*>:>st: /*>,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,BLOCK* NameSystem.allocateBlock: /*>,BLOCK* NameSystem.allocateBlock: /*>/part-*>. blk_*>,False
+0,BLOCK* NameSystem.delete: blk_*> is added to invalidFalse:*>,BLOCK* NameSystem.delete: blk_*> is added to invalidSet of *>:*>,False
+0,BLOCK* NameSystem.allocateBlock: /root/sortrand/_temporary/_task_*>.Block/part-00138.,BLOCK* NameSystem.allocateBlock: /*>/part-*>. blk_*>,False
+0,Blk_*> block blk_*> of size *> from /*>: Received block *> of size *>,Received block blk_*> of size *> from /*>,False
+0,BLOCK* NameSystem.allocateBlock: /*> /*>/*>/*> /*>,BLOCK* NameSystem.allocateBlock: /*>/part-*>. blk_*>,False
+0,NameSystem.delete: blk_*> is added to invalidSet of *>:*>:*>,BLOCK* NameSystem.delete: blk_*> is added to invalidSet of *>:*>,False
+0,PacketResponder *> for block blk_*> terminating,PacketResponder *> for block blk_*> terminating,True
+0,*> src: /*>:*>,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,PacketResponder *> for block blk_*> terminating,PacketResponder *> for block blk_*> terminating,True
+0,Receiving block blk:*>:*>:*>:*>:*>,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,PacketResponder 2 for block blk_*> terminating if block *>,PacketResponder *> for block blk_*> terminating,False
+0,BLOCK* NameSystem.delete: blk_*>,BLOCK* NameSystem.delete: blk_*> is added to invalidSet of *>:*>,False
+0,BLOCK* NameSystem.allocateBlock: *>*>,BLOCK* NameSystem.allocateBlock: /*>/part-*>. blk_*>,False
+0,Receiving block blk_*>,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,Received block blk_*> received block blk_*> of size *> from /*>,Received block blk_*> of size *> from /*>,False
+0,Recipient's *>: /*>,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,BLOCK* NameSystem.allocateBlock: /*>. /*>/part-003/*>/*>,BLOCK* NameSystem.allocateBlock: /*>/part-*>. blk_*>,False
+0,NITCH* NameSystem.addStoredBock : blockMap updated: *>:*> size *>:*> was added to blk_*> size *,BLOCK* NameSystem.addStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,False
+0,Receiver block blk_*>:*> diss: *>:*>:*>,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,Deleting block blk_*> file /*>/ deleting block blk_*> file /*>,Deleting block blk_*> file /*>/blk_*>,False
+0,BLOCK* NameSystem.allocateBlock: /*/*>,BLOCK* NameSystem.allocateBlock: /*>/part-*>. blk_*>,False
+0,Deleting block blk_*> file /*>,Deleting block blk_*> file /*>/blk_*>,False
+0,BLOCK* NameSystem.add-StoredBlock: blockMap updated: *>*> is added to blk_*>:*> size *>,BLOCK* NameSystem.addStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,False
+0,BLOCK* NameSystem. *>. *> *>_*>,BLOCK* NameSystem.allocateBlock: /*>/part-*>. blk_*>,False
+0,blk_*> blk_*>,BLOCK* ask *>:*> to delete blk_*>,False
+0,Deleting block blk_*>,Deleting block blk_*> file /*>/blk_*>,False
+0,BLOCK* NameSystem.- addStoredBlock: blockMap is added to blk_*> size *>,BLOCK* NameSystem.addStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,False
+0,BLOCK* On invalidSet: blk_*> is added to invalidSet of 10.25*>:*>,BLOCK* NameSystem.delete: blk_*> is added to invalidSet of *>:*>,False
+0,PacketResponder *> for block blk_*> terminating,PacketResponder *> for block blk_*> terminating,True
+0,Deleting block blk_*> file /*>,Deleting block blk_*> file /*>/blk_*>,False
+0,PacketResponder 1 for block blk_*> terminating element,PacketResponder *> for block blk_*> terminating,False
+0,BLOCK* Name System.allocateBlock: /*>/Part-0006/part-/*>,BLOCK* NameSystem.allocateBlock: /*>/part-*>. blk_*>,False
+0,Deleting block blk_*> current/subdir 0 />*>/blk_*>,Deleting block blk_*> file /*>/blk_*>,False
+0,Received block blk_*> of size *> from /*> from *>,Received block blk_*> of size *> from /*>,False
+0,BLOCK* NameSystem.addStoredBlock: blockMap updated: *> is added to blk_*> size :*>> is added to blk_*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,False
+0,Received block blk_*> size *>,Received block blk_*> of size *> from /*>,False
+0,Receiving block *>:*> src: /10.251.43.192:*> det: /*> src: /*> *>,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,BLOCK* NameSystem.delete: blk_*> added to invalidSet of *>,BLOCK* NameSystem.delete: blk_*> is added to invalidSet of *>:*>,False
+0,Receiver block blk_*>>:*>> src: /*>:*> sender's block src: /*> src,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,*>_*> ending/*>,PacketResponder *> for block blk_*> terminating,False
+0,NameSystem.delete: blk_*> is added to invalidSet of: blk_*> is added to invalidSet: blk_*>,BLOCK* NameSystem.delete: blk_*> is added to invalidSet of *>:*>,False
+0,Blk_*>,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,Received block blk_*> size *> from /*> of size *>,Received block blk_*> of size *> from /*>,False
+0,Received block blk_block_/sztn_/d> from /*> with size *> of *>,Received block blk_*> of size *> from /*>,False
+0,Deleting block blk_*> file /mnt/hadoop/dfs/dfs/data/current/subdir 59/blk_*>/delete,Deleting block blk_*> file /*>/blk_*>,False
+0,BLOCK* NameSystem.addStoredBlock: block_*> is added to blk_*> size 671102*>.*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,False
+0,BLOCK* NameSystem.addStoredBlock: blockMap updated: *> is added to blk_*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,False
+0,*> code blk_*> file *> *>/blk_*> file /*>/file*>,Deleting block blk_*> file /*>/blk_*>,False
+0,*>> served: *> To *>:*>,*>:*> Served block blk_*> to /*>,False
+0,Deleting block blk_*> file /*>. Encoding pt %*>,Deleting block blk_*> file /*>/blk_*>,False
+0,Received block blk_**> of size 6710096/*> from /*> from /*>,Received block blk_*> of size *> from /*>,False
+0,"nameSystem.delete: blk_*>:*>, is added to invalidSet of *>:*>",BLOCK* NameSystem.delete: blk_*> is added to invalidSet of *>:*>,False
+0,BLOCK* NameSystem.allocateBlock: /usr/s>/ task_*>/> /usr/*>,BLOCK* NameSystem.allocateBlock: /*>/part-*>. blk_*>,False
+0,"Received block blk_*> of size *> from /10.250.19.16, of *>",Received block blk_*> of size *> from /*>,False
+0,Receiving block blk_*> src: *> src: *>:*> dest: *>:*>,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,Deleting block blk_*> /*> file /mnt/hadoop/dfs/data/current/subdirs/critically-segment/subdir,Deleting block blk_*> file /*>/blk_*>,False
+0,Receiving block blk_*> src: /*>; dest: /*>,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,Beating blk_*> to /*>:*>,*>:*>:Got exception while serving blk_*> to /*>:,False
+0,BLOCK* NameSystem.adjugorically deleted: blockMap updated: *>:*>:*> *>:*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,False
+0,BLOCK* NameSystem.addStoredBlock: blockMap updated: *> added to blk_*> size *>,BLOCK* NameSystem.addStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,False
+0,Received block blk_*> of size *> from /*>,Received block blk_*> of size *> from /*>,True
+0,Deleting block blk_*>. *> *> file /m*>/*>/*>:*>,Deleting block blk_*> file /*>/blk_*>,False
+0,Src: *>: /*>:/*> dist: /*>:*>,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,Received block blk_*> of size *> from /*> from /*>,Received block blk_*> of size *> from /*>,False
+0,Deleting block blk_*>,Deleting block blk_*> file /*>/blk_*>,False
+0,PacketResponder1 for block blk_*> terminating,PacketResponder *> for block blk_*> terminating,False
+0,BLOCK* NameSystem.allocateBlock: /*>/*>/*>/part//*>//>,BLOCK* NameSystem.allocateBlock: /*>/part-*>. blk_*>,False
+0,NameSystem.addStoredBlock: blockMap updated: *> is added to blk_*> is added to blk_*:*> is added to lk_,BLOCK* NameSystem.addStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,False
+0,*> sstc: *> det: /*>,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,BLOCK* NameSystem.delete: blk_*> :*> is added to invalid*>,BLOCK* NameSystem.delete: blk_*> is added to invalidSet of *>:*>,False
+0,BLOCK* NameSystem.appstoredBlock: blockMap updated: *> blk_*> is added to blk_*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,False
+0,PacketResponder 2 for block blk_*> terminating(),PacketResponder *> for block blk_*> terminating,False
+0,src: **>:*>,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,Receiving block blk_*>,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,Served block blk_*> *> to /10.*> Served block blk_*>,*>:*> Served block blk_*> to /*>,False
+0,Received block blk_*> from /*> of size *> of />:*>,Received block blk_*> of size *> from /*>,False
+0,AddStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,BLOCK* NameSystem.addStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,False
+0,PacketResponder 2 for block blk_*> terminating,PacketResponder *> for block blk_*> terminating,False
+0,Receiving block blk_*> dest: /*>:*>,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,Buobin_by>block blk_*>,*>:*> Starting thread to transfer block blk_*> to *>:*>,False
+0,PacketRespirer-1 for block blk_*> terminating,PacketResponder *> for block blk_*> terminating,False
+0,Deleting block blk_*>:delete block blk_*>,Deleting block blk_*> file /*>/blk_*>,False
+0,BLOCK_*> *>:*> *> to *>:>,*>:*> Served block blk_*> to /*>,False
+0,BLOCK* NameSystem.allocateBoot: /*>,BLOCK* NameSystem.allocateBlock: /*>/part-*>. blk_*>,False
+0,Receiving block src: *>:*>:*>*>,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,10.251.70.112:50010:Got exception while serving blk_*> with *>,*>:*>:Got exception while serving blk_*> to /*>:,False
+0,Receiving block blk_*>DEST: *>:*> Dest: *>:*>,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,Deleting block blk_*> blk_*>,Deleting block blk_*> file /*>/blk_*>,False
+0,blk_*> from *> *> from *>,Received block blk_*> of size *> from /*>,False
+0,Deleting block blk_*>_*> *> file /mnt/aa/subdir1/blk_*>,Deleting block blk_*> file /*>/blk_*>,False
+0,Receiver blk_*>:*>:*>.*>,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,PacketResponder -1 for block blk_*> terminating,PacketResponder *> for block blk_*> terminating,False
+0,BLOCK* NameSystem.delete: blk_*> is added to invalidSet of *>:*>,BLOCK* NameSystem.delete: blk_*> is added to invalidSet of *>:*>,True
+0,BLOCK* NameSystem.addStoredBlock: blockMap updated: *> is added to blk_*> size 3*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,False
+0,Received block blk_*> size *> from /*>,Received block blk_*> of size *> from /*>,False
+0,PacketResponder 2 for block blk_*> terminating,PacketResponder *> for block blk_*> terminating,False
+0,Received block blk_*> of size *> of size *>,Received block blk_*> of size *> from /*>,False
+0,This page is available to /*>:*>:*>. *>:*>,*>:*>:Got exception while serving blk_*> to /*>:,False
+0,Receiving block blk_*> src: /*>:*>,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,Receiving block blk_*>:*>:*>:*>:*>:*>:*>:*>:*>,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,Received block blk_*> from /10.35*> from /*>,Received block blk_*> of size *> from /*>,False
+0,Receiving block blk_*>:*> dest: *>:*>:*>,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,Received block blk_*> from *> from /*> from /*>,Received block blk_*> of size *> from /*>,False
+0,NameSystem.doess added: *>:*> *>: *>:*> *> size *>*> *>,BLOCK* NameSystem.addStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,False
+0,Deleting block blk_*>,Deleting block blk_*> file /*>/blk_*>,False
+0,BLOCK* NameSystem.allocateBlock: /user/root/rand/_ploy_of_traffic_by_ploy_set_to_*>/part--> ,BLOCK* NameSystem.allocateBlock: /*>/part-*>. blk_*>,False
+0,Receiving block blk_*> src: /*>:*>:*>,Receiving block blk_*> src: /*>:*> dest: /*>:*>,False
+0,BLOCK* NameSystem.delete: blk_* is added to invalidSet of *>:*>,BLOCK* NameSystem.delete: blk_*> is added to invalidSet of *>:*>,False
+0,BLOCK* NameSystem.delete: blk_*> is added to invalidSet of *>:*>,BLOCK* NameSystem.delete: blk_*> is added to invalidSet of *>:*>,True
+0,Receivable block blk_*> from /10.251 *> from /*>,Received block blk_*> of size *> from /*>,False
+0,BLOCK* NameSystem.allocateBlock: /*>/*>,BLOCK* NameSystem.allocateBlock: /*>/part-*>. blk_*>,False
+0,BLOCK* NameSystem.addStoredBlock: blockMap updated: >:*> is added to blk_*> size *>,BLOCK* NameSystem.addStoredBlock: blockMap updated: *>:*> is added to blk_*> size *>,False

@@ -1,0 +1,201 @@
+,predictions,references,correct
+0,Address change detected. Old: *>:*> *>:*>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,Reduce slow start threshold not met. completed MapsForReduceSlowstart 1,Reduce slow start threshold not met. completedMapsForReduceSlowstart *>,False
+0,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*> for *> seconds. Will retry shortly...,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,The progress of Task. Progress is *>: *>.*>,Progress of TaskAttempt attempt_*> is : *>.*>,False
+0,Progression of TaskAttempt attempt_*> is *>.*>,Progress of TaskAttempt attempt_*> is : *>.*>,False
+0,Launching attempt_*>,Launching attempt_*>,True
+0,"application_*>>: getResources() for application_*>: answer=*>: answer>: newContainers=*>, finishedContainers=*>",getResources() for application_*>: ask=*> release= *> newContainers=*> finishedContainers=*>,False
+0,Progress of TaskAttempt attempt_*> is : *>.*>,Progress of TaskAttempt attempt_*> is : *>.*>,True
+0,LOCATION Failed to renew lease for [DFSClient_NONMAPREDUCE_*>] for_*> seconds. Will retry shortly...,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,Retrying connectivity to server: *>:*>. Already tried *> time(s); retry policy is RetryUptoMaxe.*>>.*>:*>,Retrying connect to server: *>:*>. Already tried *> time(s); retry policy is RetryUpToMaximumCountWithFi,False
+0,Progress of TaskWork,Progress of TaskAttempt attempt_*> is : *>.*>,False
+0,Failed to renew lease for [DFSClient_NONMAP *>] for 193 seconds. Will retry shortly...,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,Address change detected.,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,Address change detected.,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,Progress of TaskAct attempt_-%': *>,Progress of TaskAttempt attempt_*> is : *>.*>,False
+0,Reduce slow start threshold not met. CompletedMapsForReduceSlowstart 1 completed,Reduce slow start threshold not met. completedMapsForReduceSlowstart *>,False
+0,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>] for *> seconds. Will retry shortly...,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,Job number_*> job_*> is *>.*>,JOB_CREATE job_*>,False
+0,"Relacing schedule, headroom = *>, vCores:-27>","Recalculating schedule, headroom=memory:*>, vCores:*>>",False
+0,Address change detected.,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.,True
+0,Progress of TaskAttempt: *>_*> is : *>: *>.*>%*>,Progress of TaskAttempt attempt_*> is : *>.*>,False
+0,Address change detected. Old: *>:*>.*>:*>:*>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,Address change detected. Old: *>:*>/10.190.1173.170:*> New: *>:*>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,CompletedMapsForReduceSlowstart 1,Reduce slow start threshold not met. completedMapsForReduceSlowstart *>,False
+0,Retrying connect to server: *>@**>,Retrying connect to server: *>:*>. Already tried *> time(s); retry policy is RetryUpToMaximumCountWithFi,False
+0,Changed address. Old: *>/10.190.*>:*> New: *>:*>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,Address change detected. Old: *> *> New: *>*>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,The lease was deemed valid. Will retry shortly.*>,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,To save time.,Using callQueue class java.util.concurrent.LinkedBlockingQueue,False
+0,Failed to renew lease for [FANCT*>*>] for 68 seconds. Will retry shortly...,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,Freaksliff refuse to renew lease,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,"Recalcine schedule, headroom=**>, vCores:*>","Recalculating schedule, headroom=memory:*>, vCores:*>>",False
+0,Task Transitioned from NEW to SCHEDULED*>,task_*> Task Transitioned from NEW to SCHEDULED,False
+0,Retrying connection: *>:*>.*>. Already tried *> time(s); retry policy is RetryUpToMaxiM*>MaxiMax.XileSct,Retrying connect to server: *>:*>. Already tried *> time(s); retry policy is RetryUpToMaximumCountWithFi,False
+0,Progress of TaskAttempt attempt_*> is : *>.*>:*>,Progress of TaskAttempt attempt_*> is : *>.*>,False
+0,Reduce slow start threshold not met. FinishedMapsForReduceSlowstartPurpleGrandMapsFirmOnlineMapsForReduceSlowstart 1,Reduce slow start threshold not met. completedMapsForReduceSlowstart *>,False
+0,"Recalculating schedule, headroom=memory:*>>>","Recalculating schedule, headroom=memory:*>, vCores:*>>",False
+0,"ReducResourceRequest:memory:*>, *>>","reduceResourceRequest:memory:*>, vCores:*>>",False
+0,Progress of TaskAttempt attempt_*>. try_*>=*>=*> progress_*>=*>.*>,Progress of TaskAttempt attempt_*> is : *>.*>,False
+0,: *>,Progress of TaskAttempt attempt_*> is : *>.*>,False
+0,Retrying - connect to server: msra-sa-401:8030. Already tried 0 time/s. retry policy is retryUpToMaxillance. retryUP TO,Retrying connect to server: *>:*>. Already tried *> time(s); retry policy is RetryUpToMaximumCountWithFi,False
+0,New: *>:*>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,Task *>> taskY> is successfully processed the event,Processing the event EventType: CONTAINER_REMOTE_*> for container container_*> taskAttempt attempt_*>,False
+0,Progress of TaskAttempt attempt_*>: *> *>,Progress of TaskAttempt attempt_*> is : *>.*>,False
+0,TaskInstance: [*>]*>,TaskAttempt: [attempt_*>] using containerId: [container_*>_*>_*>_*> on NM:,False
+0,Progress of TaskAttempt attempt_*>,Progress of TaskAttempt attempt_*> is : *>.*>,False
+0,Resolved MSRA-SA-SA-Falcon / default-rack,Resolved *> to /default-rack,False
+0,Processing the event EventType: TASK_ABORT,Processing the event EventType: TASK_ABORT,True
+0,Retryging connect to server: *>:*>. Already tried 0 time(s); retry policy is RetryUpToMax.Potential*> time's; retry policy,Retrying connect to server: *>:*>. Already tried *> time(s); retry policy is RetryUpToMaximumCountWithFi,False
+0,Loan fail to renew lease for [DFSClient_UNONMAPREDUCE_*>> =] for *>*> seconds,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,Task-Attempt attempt_1445144423722_*> 20m,Progress of TaskAttempt attempt_*> is : *>.*>,False
+0,Reduce Slow start threshold not met. Complete MapsForReduceSlowstart *>,Reduce slow start threshold not met. completedMapsForReduceSlowstart *>,False
+0,Error in CONTACTING RM.,ERROR IN CONTACTING RM.,False
+0,Reduce slow start threshold not met. CompletedMapsForReduceSlowstart 1,Reduce slow start threshold not met. completedMapsForReduceSlowstart *>,False
+0,DOTA = *>,Done acknowledgement from attempt_*>,False
+0,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] in 191 seconds. Will retry shortly...,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,Address change detected. Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:*>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,Failed to renew lease for [DFSClient_*>=*>,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,Retry small. Will retry shortly...,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,Failed to renew lease for [DFSClient_NIMPREDUCE_*> for [*>] for 234 seconds. Will retry soon......,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,Address change detected. Old: *>/10.190.173.170:09*>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,Failed to renew lease for [DFSClient_NONMAPREDUCE_*> for [DFSClient_NONMAPREDUCE_*> for]*> for a sec.,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.,True
+0,Progress of Task Attempt attempt_**> is : *>>.*>,Progress of TaskAttempt attempt_*> is : *>.*>,False
+0,callQueue class -* java.util.concurrent.LinkedBlockingQueue *> callQequilibracy.*>,Using callQueue class java.util.concurrent.LinkedBlockingQueue,False
+0,Progress of TaskAttempt attempt_*>_ is: *>.,Progress of TaskAttempt attempt_*> is : *>.*>,False
+0,*>Dot*>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,Address change detected. New: *>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,Progress of Task Attempt attempt_*> is :/*>,Progress of TaskAttempt attempt_*> is : *>.*>,False
+0,address change detected. New: **>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,Reduce slow start threshold not met. CompletedMapsForReduceSlowstart1,Reduce slow start threshold not met. completedMapsForReduceSlowstart *>,False
+0,Address change detected. Old: *>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,address change *>:*> New: *>:*>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,It's too early to fetched address change.,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,address change detected. Old: *>:*>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,Address change detected. Old: *>:*>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,"Recalculating schedules, headroom=myth:*>, vCores: -*>","Recalculating schedule, headroom=memory:*>, vCores:*>>",False
+0,Address change detected. Old: **>:*>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,*>.*>. *>:*> *>,Retrying connect to server: *>:*>. Already tried *> time(s); retry policy is RetryUpToMaximumCountWithFi,False
+0,Failed to renew lease for [DFSClient_NONMAPREDUCE_*> for 95 seconds. Will retry shortly...,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,Retrying connect to server: *>->5:00 pm. Already tried *> time(s); retry policy is RetryUptoMaximizeDownToO*> time(s); ,Retrying connect to server: *>:*>. Already tried *> time(s); retry policy is RetryUpToMaximumCountWithFi,False
+0,Failed to renew lease for [DMC Client_NMPREDUCATE_*>_*>] for 47 seconds. Will retry shortly... *>,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,FAILURE IN CONTACTING RM,ERROR IN CONTACTING RM.,False
+0,Failed to renew lease for [DONT_*>/*> for *> seconds. Will retry shortly *>,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,Address change detected. Old: *>:*>:*> New: *>:*>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,address change detected. Old: *>:*>:*> New: *>:*>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,"Recalculating schedule, headroom=memory:*>, vCores::*>, leftNumodum = *>","Recalculating schedule, headroom=memory:*>, vCores:*>>",False
+0,Reduce slow start threshold not met. Upon completion,Reduce slow start threshold not met. completedMapsForReduceSlowstart *>,False
+0,Reduce slow start threshold not met. completedMapsForReduceSlowstart1,Reduce slow start threshold not met. completedMapsForReduceSlowstart *>,False
+0,"Recalculating schedule, headroom=memory:*>, vCorres:-26 >>","Recalculating schedule, headroom=memory:*>, vCores:*>>",False
+0,Addressed with *> addresses *>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,address change. Old: *>: *>.*> New: *>:*>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,tries connecting to server: *.SUP*. Already tried *> time(s); retryUP*> *>,Retrying connect to server: *>:*>. Already tried *> time(s); retry policy is RetryUpToMaximumCountWithFi,False
+0,Address change detected. Old: >,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,Reduce slow start threshold not met. CompletedMapsForReduceSlowstart 1 *>,Reduce slow start threshold not met. completedMapsForReduceSlowstart *>,False
+0,Progress of TaskAttempt attempt_*> is : 0.106//>,Progress of TaskAttempt attempt_*> is : *>.*>,False
+0,Rely on (nonmalu*>*>] for 3141 seconds. Will re-try shortly...,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,Failed to renew lease for [DFSClient_NONMAPPERCREDUCE_*> for *> seconds. Will retry shortly...,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,Ramping up all remaining remaining reduce:1%.,All maps assigned. Ramping up all remaining reduces:*>,False
+0,address change detected. Old: Msra-sa-*>:*> New: *>:*> New: *>:*>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,Address change detected. New *> on *>:*>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,PendingReds: PANC*>: ScheduledReds:0*> ScheduledReds:*> AssignedReds:*> AssignedReds:*> As,After Scheduling: PendingReds:*> ScheduledMaps:*> ScheduledReds:*> AssignedMaps:*> Assigned,False
+0,A tool is ATTEMPT_START_STOP_CODE_*>*> *>,ATTEMPT_START task_*>,False
+0,TaskIm_*>,TaskAttempt: [attempt_*>] using containerId: [container_*>_*>_*>_*> on NM:,False
+0,TaskAttempt attempt_*> : *>,Progress of TaskAttempt attempt_*> is : *>.*>,False
+0,Progress of TaskAttempt attempt_*> is : *>,Progress of TaskAttempt attempt_*> is : *>.*>,False
+0,Failed to renew lease for [DFSC Client_NONMAPREDUCE_*> *> for 181 seconds. Will retry shortly *> *>,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,address change detected. Old: *>/*>/> New: *>:*>:*>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*> for *>] for 146 seconds. Will retry shortly....>>,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,Relieve slow start start threshold not met. completedMapsForReduceSlowstart / *>,Reduce slow start threshold not met. completedMapsForReduceSlowstart *>,False
+0,task Attempt (A) attempt_*>: *>,Progress of TaskAttempt attempt_*> is : *>.*>,False
+0,Failed to renew lease for [DFSClient_NONMAPREDUCT[>] for [*>] for [*>] for 237 seconds. Will retry shortly.,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,Reduce slow start threshold not met. completedMapsForReduceSlowstart 1*>,Reduce slow start threshold not met. completedMapsForReduceSlowstart *>,False
+0,Address change detected. Old: *>&*>:*> New: *>->:*>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,Address change detected. Old: msra-sa-41/10.190.173.170.70*> New: msra-sa-41:*>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>] for *> seconds. Will retry shortly...,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,Failed to renew lease for [DFSClient_NonMAPREDUCE_*>] for 117 seconds. Will retry shortly...,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for realts seconds. Will retry...,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,Increase slow start threshold not met. completed MapsForReduceSlowstart 1 *> = MapsForReduceSlowstart,Reduce slow start threshold not met. completedMapsForReduceSlowstart *>,False
+0,Address change detected. Old: *>:*> New: *>:*>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,Failed to renew lease for [DFSClient_NON-маеин>] for *> seconds. Will retry soon... *>,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,Progress of Task Attempt attempt_*>>*> is : *>,Progress of TaskAttempt attempt_*> is : *>.*>,False
+0,Retrying connect to server: *>:*>.*>>. Already tried *> time(s); retry policy is RetryUPToMax>.*>*>,Retrying connect to server: *>:*>. Already tried *> time(s); retry policy is RetryUpToMaximumCountWithFi,False
+0,Address change detected. Old: *>/*>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,Progress of TaskAttempt attempt_*>: : *>,Progress of TaskAttempt attempt_*> is : *>.*>,False
+0,task_key.std.*>> TaskAttempt *> to FAILED to FAILTASK_CLEANUP to FAILED*>,attempt_*> TaskAttempt Transitioned from FAIL_TASK_CLEANUP to FAILED,False
+0,Reliefulate slow start threshold not met. completedMapsForReduceSlowstart *>.,Reduce slow start threshold not met. completedMapsForReduceSlowstart *>,False
+0,address change *>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,Progress of Task : *> : *>.*>,Progress of TaskAttempt attempt_*> is : *>.*>,False
+0,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>s1st_*>] for *> seconds. Will retry shortly *>,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,TaskAttempt Transitioned from NEW to UNASSIGNED to UNASSIGNED,attempt_*> TaskAttempt Transitioned from NEW to UNASSIGNED,False
+0,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry soon *>.,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,"Retrying connect to server: *> Already tried 0 time(s); retry policy is *>: RetryUPTOMATERIAL/>, so it's RetryUpToMax.",Retrying connect to server: *>:*>. Already tried *> time(s); retry policy is RetryUpToMaximumCountWithFi,False
+0,Resolved MSRA-SA-SA-41.fareast.corp.microsoft.com to /Default-Rándle,Resolved *> to /default-rack,False
+0,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.,True
+0,Ansible Opening proxy : MSRA-SA-41.fareast.corp.org:*> Opening proxy: MSRA-SA-41.Fareast.corp.in.com:7109. *>,Opening proxy : *>:*>,False
+0,*>>*> in discussing *> *>,ERROR IN CONTACTING RM.,False
+0,Address change detected.,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,Require slow start threshold not met. *>=Menelwi*>,Reduce slow start threshold not met. completedMapsForReduceSlowstart *>,False
+0,Progress of TaskAttempt attempt_*> is : *> *>.*>.*>,Progress of TaskAttempt attempt_*> is : *>.*>,False
+0,taskAttempt attempt: task Attempt attempt. taskAttempt attempt:*>./>,Processing the event EventType: CONTAINER_REMOTE_*> for container container_*> taskAttempt attempt_*>,False
+0,The address change detected. Old: *> *>*>:*>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,Reduce slow start threshold,Reduce slow start threshold not met. completedMapsForReduceSlowstart *>,False
+0,Progress of TaskAttempt attempt_*> is *>.*> is *>.*>,Progress of TaskAttempt attempt_*> is : *>.*>,False
+0,: *>>,Progress of TaskAttempt attempt_*> is : *>.*>,False
+0,Taskstack_в*> Tasks*> were deleted.,task_*> Task Transitioned from SCHEDULED to RUNNING,False
+0,Address change detected. Old: **>>:*>:*> New: **>:*>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly *>,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,Retrying connect to server: msra-sa-*-*-*>. Already tried 0 time(s); retry policy is RetryUp toMax.,Retrying connect to server: *>:*>. Already tried *> time(s); retry policy is RetryUpToMaximumCountWithFi,False
+0,*> *>. Already tried 0 time(s); retry policy is RetryUpToMax,Retrying connect to server: *>:*>. Already tried *> time(s); retry policy is RetryUpToMaximumCountWithFi,False
+0,error in CONTACTING RM.,ERROR IN CONTACTING RM.,False
+0,"Recalculating schedule, headroom=memory:0, vCores:-27>>","Recalculating schedule, headroom=memory:*>, vCores:*>>",False
+0,Failed to renew lease for [DFSCint_NONMAPREDUCE_**>.,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>] for [*>]*> time series,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,release= *>/>*>->*>: query=*> release=*>.*>>=*>*>,getResources() for application_*>: ask=*> release= *> newContainers=*> finishedContainers=*>,False
+0,Reduce slow start threshold not met. FinishedMapsForReduceSlowstart-None>,Reduce slow start threshold not met. completedMapsForReduceSlowstart *>,False
+0,,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,Restarts for [DFSClient_NONMAPREDUCE_*>>] for [*> *>,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,Correction in Counseling mm.,ERROR IN CONTACTING RM.,False
+0,Putting shuffle tokens in serviceData. Put shuffle tokens in serviceData.,Putting shuffle token in serviceData,False
+0,Address change detected. Old: *>/> New: *>:*> New: *>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,Failed to renew lease for [*>] for *> seconds. Will retry shortly...,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,ERRROR IN CONTACTING RM.,ERROR IN CONTACTING RM.,False
+0,Address change detected. Old: *>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,ERROR IN CONTACTING RM.,ERROR IN CONTACTING RM.,True
+0,The address change is successful.,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,DataStreamer Exception,DataStreamer Exception,True
+0,Freakly fenertial lease for NOSS (*>>,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,Failed to renew lease for [DFSCclient_*>>,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,Resolved. Corp->,Resolved *> to /default-rack,False
+0,*> is : *>.*>,Progress of TaskAttempt attempt_*> is : *>.*>,False
+0,Failed to renew lease for [DFSClient_MAPREDUCT*> for *> seconds. Will retry shortly...,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,"Recalculating schedule, headroom=memory:0, vCores: -27>","Recalculating schedule, headroom=memory:*>, vCores:*>>",False
+0,The asssigned container container is empty to attempt_*>.*>_>_.*>,Assigned container container_*> to attempt_*>,False
+0,Address change detected. Old: *>:*>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,Progress of TaskAttempt_attempted_*> is *>: *>,Progress of TaskAttempt attempt_*> is : *>.*>,False
+0,Address change detected. Old: *>/10.190.,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,Launching attempt_*>> = *>,Launching attempt_*>,False
+0,Work Start Time start_*> *>,ATTEMPT_START task_*>,False
+0,Address change detected. Old: *>*>.*>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,*>,ERROR IN CONTACTING RM.,False
+0,Task Transitioned from SCHEDULED to RUNNING,task_*> Task Transitioned from SCHEDULED to RUNNING,False
+0,Before Scheduling: PendingReds: *>>> ScheduledMaps:*>> ScheduledMaps: *> ScheduledReds:*> AssignedMaps:,Before Scheduling: PendingReds:*> ScheduledMaps:*> ScheduledReds:*> AssignedMaps:*> Assigned,False
+0,Failed to renew for [DFSClient_NONMAPREDUCE_*>_*>. Will retry shortly...,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,Progress of TaskAttempt attempt_*> is : *>.*>:*>*>,Progress of TaskAttempt attempt_*> is : *>.*>,False
+0,Progress of Task Attempt attempt_*> is *> *>,Progress of TaskAttempt attempt_*> is : *>.*>,False
+0,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,Retrying connectivity to server: *>: *>>. Already tried 0 time(s); retry policy is RetryUpToMaxishly*>.,Retrying connect to server: *>:*>. Already tried *> time(s); retry policy is RetryUpToMaximumCountWithFi,False
+0,Address change detected.,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,JVM with ID: *>,JVM with ID: jvm_*> given task: *>_*>,False
+0,Address change detected.,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,Reduce slow start threshold not met. completedMapsForReduceSlowstart 1,Reduce slow start threshold not met. completedMapsForReduceSlowstart *>,False
+0,Opening proxy : *>: Microsoft.com*>.*>.*>. Opening proxy : *>.,Opening proxy : *>:*>,False
+0,Adding protocol org.apache.haveoop.mapreduce.v2api.MRClientProtocolPB to the server.,Adding protocol org.apache.hadoop.mapreduce.v2.api.MRClientProtocolPB to the server,False
+0,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>] for 312 seconds. Will retry shortly...,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,address change detected. Old: *>/*> New: *>,Address change detected. Old: *>/*>:*> New: *>:*>,False
+0,Retrying connect to server: *>:*>. Already tried *> time(s); retry policy is RetryUpToMax*>>,Retrying connect to server: *>:*>. Already tried *> time(s); retry policy is RetryUpToMaximumCountWithFi,False
+0,Failed to renew lease for *> for *> for *> seconds.*> *>,Failed to renew lease for [DFSClient_NONMAPREDUCE_*>_*>] for *> seconds. Will retry shortly...,False
+0,Task *>,TaskAttempt: [attempt_*>] using containerId: [container_*>_*>_*>_*> on NM:,False

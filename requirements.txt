@@ -1,0 +1,7 @@
+pandas==2.2.2
+torch==2.2.2
+transformers==4.40.0
+rouge-metric==1.0.1
+nltk==3.8.1
+accelerate==0.29.3
+sentencepiece==0.2.0

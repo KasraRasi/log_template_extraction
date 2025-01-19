@@ -1,0 +1,201 @@
+,predictions,references,correct
+0,>> iar *>> CCYC FAC,iar *> dear *>,False
+0,icache prefetch threshold >,icache prefetch threshold................*>,False
+0,64 core files for program /bgl/apps/swl-prep/ibm-swl,ciod: generated *> core files for program *>,False
+0,generator,generating core.*>,False
+0,generating core.*>,generating core.*>,True
+0,data storage interrupt,data storage interrupt,True
+0,generating *>,generating core.*>,False
+0,machine check enable................ *>,machine check enable..............*>,False
+0,the maximum time was the median time for a single use of the same pins,*> microseconds spent in the rbs signal handler during *> calls. *> microseconds was the maximum time for a single instance,False
+0,generating core.*>,generating core.*>,True
+0,machine check: i-fetch *>,machine check: i-fetch......................*>,False
+0,"*>> source code source=""instuting"" source line=""izdotransportmgr.cpp""",idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=*> Function,False
+0,*> spent in the rbs signal handler during 0 microseconds. *> time for a single instance of *>,*> microseconds spent in the rbs signal handler during *> calls. *> microseconds was the maximum time for a single instance,False
+0,—>,iar *> dear *>,False
+0,generating core.*>,generating core.*>,True
+0,store operation *>,store operation.............................*>,False
+0,*> situation: ASSERT expression : ASSERT>,idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=*> Function,False
+0,generating core.*>,generating core.*>,True
+0,Iache prefetch depth....................,icache prefetch depth....................*>,False
+0,generating core.*>,generating core.*>,True
+0,cnt>*> *> dear *> cnt>,iar *> dear *>,False
+0,generating core.*>,generating core.*>,True
+0,c),iar *> dear *>,False
+0,*> Floaci*>,*> floating point alignment exceptions,False
+0,program interrupt,program interrupt,True
+0,*> floating point alignment exceptions,*> floating point alignment exceptions,True
+0,*>,iar *> dear *>,False
+0,"(received signal 15 isod: received signal 15, code=0, errno=0, address=0, address=0,*>>","ciod: Received signal *>, code=*>, errno=*>, address=*>",False
+0,*> floating point alignment exceptions,*> floating point alignment exceptions,True
+0,generating core.*>,generating core.*>,True
+0,generating core.*>,generating core.*>,True
+0,aires crst>c *>,iar *> dear *>,False
+0,*>,instruction address: *>,False
+0,generating core.*>,generating core.*>,True
+0,float point alignment exceptions,*> floating point alignment exceptions,False
+0,program interrupt: unimplemented operation..*>,program interrupt: unimplemented operation..*>,True
+0,instruction address: *>,instruction address: *>,True
+0,program interrupt: illegal instruction *>,program interrupt: illegal instruction......*>,False
+0,data TLB error interrupt,data TLB error interrupt,True
+0,generating core.*>,generating core.*>,True
+0,generating clerk-core.*>,generating core.*>,False
+0,"ce sym 3, at *>, mask *>","CE sym *>, at *>, mask *>",False
+0,Iar /or *> dear *>,iar *> dear *>,False
+0,generating core.,generating core.*>,False
+0,generating core.*>,generating core.*>,True
+0,generating core.*>,generating core.*>,True
+0,generating core.*>,generating core.*>,True
+0,generating core.1990,generating core.*>,False
+0,On-line alignment exceptions,*> floating point alignment exceptions,False
+0,double-hummer alignment exceptions,*> double-hummer alignment exceptions,False
+0,ciod: generated 108 core files for program /home/spellce1/HPCC_IBM/Urgent/VNM/*>,ciod: generated *> core files for program *>,False
+0,generating core.*>,generating core.*>,True
+0,generating core.*>,generating core.*>,True
+0,idoprozydb hit ASSERT condition: ASSERT expression=0,idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=*> Function,False
+0,generating core.*>,generating core.*>,True
+0,generating core.*>,generating core.*>,True
+0,idoproxydb hit ASSERT condition: ASSERT expression=0>,idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=*> Function,False
+0,generating core *>,generating core.*>,False
+0,"CE sym-21 at 0x13daa>, mask 0x40 *>","CE sym *>, at *>, mask *>",False
+0,generating core.*>,generating core.*>,True
+0,iar *> private - iar *>,iar *> dear *>,False
+0,"total interrupts. *> critical input interrupts. *> total exchange interrupts*> zero microseconds left on critical input interrupts. *> total interrupts spent on critical input interrupts, ","*> total interrupts. 0 critical input interrupts. *> microseconds total spent on critical input interrupts, *> microseconds max time in",False
+0,generating core.*>,generating core.*>,True
+0,generating core.*>,generating core.*>,True
+0,,*> double-hummer alignment exceptions,False
+0,generating core.*>,generating core.*>,True
+0,generating core.*>,generating core.*>,True
+0,155918940 double-hummer alignment exceptions,*> double-hummer alignment exceptions,False
+0,*> *> *>,Lustre mount FAILED : bglio*> : point *>,False
+0,generating core.*>,generating core.*>,True
+0,"CE sym 22, at 0x0*>, mask 0x20*>, Z-mascot*>","CE sym *>, at *>, mask *>",False
+0,generating core.*>,generating core.*>,True
+0,ufoind -dialog> condition: ASSERT condition: ASSERT*>expression=0,idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=*> Function,False
+0,Node card is not fully functional.,Node card is not fully functional,False
+0,idoproxy.db hit ASSERT condition: ASSERT expression=*> source file=>>>>>>>>>>>>*>>,idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=*> Function,False
+0,**> tree/torus link training failed: C+ X- Y+ *>> Y+ Y- Z- get: B,rts tree/torus link training failed: wanted: *> got: *>,False
+0,critical input interrupts.,"*> total interrupts. 0 critical input interrupts. *> microseconds total spent on critical input interrupts, *> microseconds max time in",False
+0,generating core.*>,generating core.*>,True
+0,*>,*> floating point alignment exceptions,False
+0,1547520 double-hummer alignment exceptions,*> double-hummer alignment exceptions,False
+0,generating core.*>,generating core.*>,True
+0,*> condition: ASSERT expression=>*>,idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=*> Function,False
+0,generating core.*>,generating core.*>,True
+0,car *>*>*>,iar *> dear *>,False
+0,*> floating point alignment exceptions,*> floating point alignment exceptions,True
+0,*>fear *>,iar *> dear *>,False
+0,Iar *>,iar *> dear *>,False
+0,generating core.*>,generating core.*>,True
+0,generating core.,generating core.*>,False
+0,ciod: Error *> or program doesn't load /**>--nozerobytebug--,"ciod: Error loading *>: invalid or missing program image, No such file or directory",False
+0,instruction address: *> instruction address: *> instruction address: *>,instruction address: *>,False
+0,"ddr errors detected and corrected on rank ""0"" symbol, symbol ""28"", bit *>","*> ddr errors(s) detected and corrected on rank *>, symbol *>, bit *>",False
+0,*> *> floating point alignment exceptions*>,*> floating point alignment exceptions,False
+0,*> mask,"CE sym *>, at *>, mask *>",False
+0,data cache search parity error detected. attempting to correct.,data cache search parity error detected. attempting to correct,False
+0,data TLB error interrupt,data TLB error interrupt,True
+0,program paused,program interrupt: imprecise exception......*>,False
+0,The total of 1 ddrr errors) detected and corrected over 2487 seconds,total of *> ddr error(s) detected and corrected over *> seconds,False
+0,*>: Error loading *>,"ciod: Error loading *>: invalid or missing program image, No such file or directory",False
+0,generating core.*>,generating core.*>,True
+0,*> floating point alignment exceptions,*> floating point alignment exceptions,True
+0,"*>, mask *>","CE sym *>, at *>, mask *>",False
+0,generating core.*>,generating core.*>,True
+0,generating core.*>,generating core.*>,True
+0,data TLB error interrupt,data TLB error interrupt,True
+0,generating core.öc>,generating core.*>,False
+0,generating core.*>,generating core.*>,True
+0,*>,*> torus receiver x+ input pipe error(s) (dcr *>) detected and corrected,False
+0,size of scratchpad portion of L.*> (0M),size of scratchpad portion of L3.........*> (*>),False
+0,ciod: generated 64 core files for program /bgl/apps/swl-prep/ibm-swl,ciod: generated *> core files for program *>,False
+0,*> machine state register: *>,machine state register: *>,False
+0,e-instd.,generating core.*>,False
+0,c*>,iar *> dear *>,False
+0,generating core.*>,generating core.*>,True
+0,*> dear *> *> *>,iar *> dear *>,False
+0,685 floating point alignment exceptions,*> floating point alignment exceptions,False
+0,ciod: Error loading,"ciod: Error loading *>: invalid or missing program image, No such file or directory",False
+0,generating core.*>,generating core.*>,True
+0,and *>,iar *> dear *>,False
+0,program interrupt: privileged instruction... *>,program interrupt: privileged instruction...*>,False
+0,- *> â€ *>,iar *> dear *>,False
+0,instruction cache parity error corrected.,instruction cache parity error corrected,False
+0,generating core.*> core. *>,generating core.*>,False
+0,torus sender dcr *> *> (dcr *>) detected and corrected over 198,*> torus sender z- retransmission error(s) (dcr *>) detected and corrected over *> seconds,False
+0,"iar *>, and allowancesaf> and allowancesa>",iar *> dear *>,False
+0,total of 1 drr error(s) detected and corrected,total of *> ddr error(s) detected and corrected,False
+0,*> float point alignment exceptions *>,*> floating point alignment exceptions,False
+0,program interruption: illegal instruction...,program interrupt: illegal instruction......*>,False
+0,generating*>,generating core.*>,False
+0,generating core *>,generating core.*>,False
+0,"*> critical input interrupts *> wasted on critical input interrupts, *> spent on critical input interrupts, *> spent on microseconds total time in","*> total interrupts. 0 critical input interrupts. *> microseconds total spent on critical input interrupts, *> microseconds max time in",False
+0,data TLB error interrupt,data TLB error interrupt,True
+0,generating core.*>,generating core.*>,True
+0,Ciod: created 128 core files for program /home/germann2/BGL-demo/SPaSM_mpi,ciod: generated *> core files for program *>,False
+0,*> field *>,ciod: Missing or invalid fields on line *> of node map file /*>,False
+0,*> microseconds spent in the rbs signal handler during *> calls,*> microseconds spent in the rbs signal handler during *> calls. *> microseconds was the maximum time for a single instance,False
+0,data address space................*>,data address space................*>,True
+0,generating core.58120,generating core.*>,False
+0,Iar 003a92a0 dear *>,iar *> dear *>,False
+0,core.*> generating core.*>,generating core.*>,False
+0,generating core.*>,generating core.*>,True
+0,TLB error interrupt,data TLB error interrupt,False
+0,ALERTS are active. Clock Mode is low. Clock Mode is low. Clock Select is Midplane. Phy JTAG Reset is asserted.,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC,False
+0,generated core.*>,generating core.*>,False
+0,generating core.*>,generating core.*>,True
+0,core.*>,generating core.*>,False
+0,generating core. *>,generating core.*>,False
+0,*>ALERTS are active. Clock Mode is *>,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC,False
+0,the critical input interrupt (unit=0x0b bit=0x0): warning for Torus+Y and/or wire,critical input interrupt (unit=*> bit=*>): warning for torus y+ wire,False
+0,generating core.*>,generating core.*>,True
+0,A negative load error *> in some places,"ciod: Error loading /*>: invalid or missing program image, Permission denied",False
+0,*> >,*> floating point alignment exceptions,False
+0,generating core.*>,generating core.*>,True
+0,CE sym 25 at *> mask *>,"CE sym *>, at *>, mask *>",False
+0,generating core.c*> generating core.*>,generating core.*>,False
+0,*> double-hummer alignment exceptions,*> double-hummer alignment exceptions,True
+0,generating core.*>,generating core.*>,True
+0,"*> *> critical input interrupts. 0 microseconds total spent on critical input interrupts, *> max time in","*> total interrupts. 0 critical input interrupts. *> microseconds total spent on critical input interrupts, *> microseconds max time in",False
+0,iar aac,iar *> dear *>,False
+0,*> double-hyper hummer and double-hummer alignment exceptions,*> double-hummer alignment exceptions,False
+0,data TLB error interrupt,data TLB error interrupt,True
+0,generating core.*>,generating core.*>,True
+0,*> float point alignment exceptions,*> floating point alignment exceptions,False
+0,ciod: Error loading /p/gb/*>: invalid or missing,"ciod: Error loading /*>: invalid or missing program image, Permission denied",False
+0,"Error receiving packet on tree network, expecting type 57 instead of type 3 (terror)","Error receiving packet on tree network, expecting type *> instead of type *> (softheader=*> *> *> ",False
+0,"total spent on critical input interrupts, *> total spent on critical input interrupts, *> *> super time","*> total interrupts. 0 critical input interrupts. *> microseconds total spent on critical input interrupts, *> microseconds max time in",False
+0,"*> CE sym *>, mask *>","CE sym *>, at *>, mask *>",False
+0,*> is generating *>.*>,generating core.*>,False
+0,error(s) detected and corrected.,total of *> ddr error(s) detected and corrected,False
+0,* *> dear 0246dacc,iar *> dear *>,False
+0,core >>,generating core.*>,False
+0,A data store interrupt was caused by icbi.*>,data store interrupt caused by icbi.........*>,False
+0,KE+Zone at *>,"CE sym *>, at *>, mask *>",False
+0,generating core.*>,generating core.*>,True
+0,the data TLB error interrupt,data TLB error interrupt,False
+0,kernel terminated because of reason 100*>,rts: kernel terminated for reason *>,False
+0,*> double-hummer alignment exceptions,*> double-hummer alignment exceptions,True
+0,Core.*>>,generating core.*>,False
+0,Double-hummer alignment exceptions,*> double-hummer alignment exceptions,False
+0,TLB error interrupt data TLB error *>,data TLB error interrupt,False
+0,0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of.,*> microseconds spent in the rbs signal handler during *> calls. *> microseconds was the maximum time for a single instance,False
+0,ciod: Eror gluing error: /home/spel*/HPCC_IBM/Urgent /Urgent/Gunnels/VNM,"ciod: Error loading /*>: invalid or missing program image, Permission denied",False
+0,11468000 double-hummer alignment exceptions,*> double-hummer alignment exceptions,False
+0,core.*>,generating core.*>,False
+0,generating core.*>,generating core.*>,True
+0,*>,generating core.*>,False
+0,core.*>,generating core.*>,False
+0,ALERTS are active,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC,False
+0,ciod: Error loading /*> *>,"ciod: Error loading *>: invalid or missing program image, No such file or directory",False
+0,*>*> floating point alignment exceptions,*> floating point alignment exceptions,False
+0,generating core.*>,generating core.*>,True
+0,condition: ASSERT expression=*>,idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=*> Function,False
+0,generating core.*>,generating core.*>,True
+0,double-hummer alignment exceptions,*> double-hummer alignment exceptions,False
+0,generating core.*>,generating core.*>,True
+0,"0 microseconds total control interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in, 0 microseconds max time in, and 0 microseconds in total.","*> total interrupts. 0 critical input interrupts. *> microseconds total spent on critical input interrupts, *> microseconds max time in",False
+0,15 floating point alignment exceptions,*> floating point alignment exceptions,False
+0,idling ebi,iar *> dear *>,False
+0,floatation point alignment exceptions,*> floating point alignment exceptions,False
+0,double-hummer alignment exceptions,*> double-hummer alignment exceptions,False

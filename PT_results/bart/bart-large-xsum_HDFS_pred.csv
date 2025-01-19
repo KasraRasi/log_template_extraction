@@ -1,0 +1,201 @@
+,predictions,references,correct
+0,Re*> for blk_<*>,Verification succeeded for blk_<*>,False
+0,Releting block blk_<*> file /blk_ <*>,Deleting block blk_<*> file /<*>/blk_<*>,False
+0,Received for blk_<*>,Verification succeeded for blk_<*>,False
+0,Received block blk_<*> of size <*> from /<*>.<*>:,Received block blk_<*> of size <*> from /<*>,False
+0,System.delete: blk_<*> is added to invalidSet of <*>,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,False
+0,Received block blk_<*> of size <*> from /<*>: <*>:,Received block blk_<*> of size <*> from /<*>,False
+0,Deleting block blk_<*> file /<*>:leting,Deleting block blk_<*> file /<*>/blk_<*>,False
+0,PacketResponder <*> for block blk_<*> terminating,PacketResponder <*> for block blk_<*> terminating,True
+0,System.delete: blOCK*>: blk_<*> is added to invalidSet: <*>,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,False
+0,Received block block blk_<*> of size <*> from /<*>:<*><*>,Received block blk_<*> of size <*> from /<*>,False
+0,BLOCK* Name* NameSystem.addStoredBlock: blockMap updated: <*> is added to blk_<*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,False
+0,BLOCK* NameSystem.allocateBlock: /<*>:<*>,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,False
+0,Receiving block blk_<*>:<*> destSheating <*>,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,False
+0,Received block blk_<*> of size <*>,Received block blk_<*> of size <*> from /<*>,False
+0,Relection:Got exception while serving blk_<*>:,<*>:<*>:Got exception while serving blk_<*> to /<*>:,False
+0,PacketResponder <*> for block blk_<*> terminating,PacketResponder <*> for block blk_<*> terminating,True
+0,BLK* NameSystem.addStoredBlock: blockMap updated: <*> is added to blk_<*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,False
+0,BLBL* NameSystem.delete: blk_<*> is added to invalidSet of <*>:*>,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,False
+0,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to blk_-<*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,Received block blk_<*> of size <*>,Received block blk_<*> of size <*> from /<*>,False
+0,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to blk_<*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,PacketResponder <*> for block blk_<*> terminating,PacketResponder <*> for block blk_<*> terminating,True
+0, blk_<*<*> of size <*> from /<*>: of <*>:<>,Received block blk_<*> of size <*> from /<*>,False
+0,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,System:Got exception while <*>:<*> to /<*>:,<*>:<*>:Got exception while serving blk_<*> to /<*>:,False
+0,Received block blk_<*> of size <*> from /<->,Received block blk_<*> of size <*> from /<*>,False
+0,Received block blk_<*> of size <*>,Received block blk_<*> of size <*> from /<*>,False
+0,ReceReceiving block blk_<*>:<*>,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,False
+0,Receiving block blk_<*>: <*> dest: /<*>,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,False
+0,System.delete: blk_<*> is added to invalidSet of <*>,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,False
+0,Received block blk_<*> of sizeReceleiner of size <*> from /<*>:<*><*>,Received block blk_<*> of size <*> from /<*>,False
+0,PacketResponder <*> for block blk_<*> terminating,PacketResponder <*> for block blk_<*> terminating,True
+0,Recelling:Got exception while serving blk_<*>:<*>,<*>:<*>:Got exception while serving blk_<*> to /<*>:,False
+0,PacketRespacketResponder <*>:<*> terminating,PacketResponder <*> for block blk_<*> terminating,False
+0, block blk_<*> file /*>,Deleting block blk_<*> file /<*>/blk_<*>,False
+0,BLOCK* Name block: blk_<*> is added to invalidSet of <*>,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,False
+0,Received block blk_<*> srcT<*>:,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,False
+0,System.addStoredBlock: blockMap updated: <*> is added to blk_<*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,False
+0,BLOCK* Name System.delete: blk_<*> is added to invalidSet of <*>,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,False
+0,Receiving block blk_<*>:<*>,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,False
+0,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,False
+0,Deleting block blk_>/<*>,Deleting block blk_<*> file /<*>/blk_<*>,False
+0,Deleting block blk_<*> file /<*>:*>,Deleting block blk_<*> file /<*>/blk_<*>,False
+0,PacketResponder <*> for block blk_<*> terminating,PacketResponder <*> for block blk_<*> terminating,True
+0,System:Got exception while serving blk_<*> to /<*>:,<*>:<*>:Got exception while serving blk_<*> to /<*>:,False
+0,SystemSystemSystem.<* NameSystem.allocatingBlock: <*>/part-<*>,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,False
+0,<*> Served block blk_<*>: <*>,<*>:<*> Served block blk_<*> to /<*>,False
+0,PacketResponder <*> for block blk_<*> terminating,PacketResponder <*> for block blk_<*> terminating,True
+0,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to blk_<*> size,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,Reign: Served block blk_<*> to /<*>.,<*>:<*> Served block blk_<*> to /<*>,False
+0,PacketResponder <*> for block blk_<*> terminating,PacketResponder <*> for block blk_<*> terminating,True
+0,ReceivingReceived block blk_<*> of size <*>,Received block blk_<*> of size <*> from /<*>,False
+0,Deleting block blk_<*>,Deleting block blk_<*> file /<*>/blk_<*>,False
+0,SystemSystem.delete: blOCK*>:<*>,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,False
+0,Deleting block blk_<*>/>,Deleting block blk_<*> file /<*>/blk_<*>,False
+0,"Receiving block block blk_<*>:<*> dest: /<*>,<*>.<*",Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,False
+0,Received block block blk_<*> of size <*> from /*>,Received block blk_<*> of size <*> from /<*>,False
+0,PacketResponder 1 for block blk_<*> terminating,PacketResponder <*> for block blk_<*> terminating,False
+0,Received block blk_<*> dest: /<*>:,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,False
+0,ReceivedReceiving block blk_<*> src: /<*>:<<<* <*>,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,False
+0,System.addStoredBlock: blockMap updated: <*> is added to blk_<*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,Deleting block blk_<*> file /<>,Deleting block blk_<*> file /<*>/blk_<*>,False
+0,Deleting block blk_<*> file /*>,Deleting block blk_<*> file /<*>/blk_<*>,False
+0,BLOCK* NameSystem.addStoredBlock*> is added to blk_<*> size <*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,BLOCK* NameSystemSystem.allocateBlock: /<*>:<*>/part-,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,False
+0,System.allocateBlock: /user/<*>,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,False
+0,Rececereceiving block blk_<*> dest: /<*>: <*>,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,False
+0,PacketResponder <*> for block blk_<*> terminating,PacketResponder <*> for block blk_<*> terminating,True
+0,ReceivedReceived block blk_<*> of size <*>,Received block blk_<*> of size <*> from /<*>,False
+0,Receiving block blk_<*>,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,False
+0,ReceivedReceived block blk_<*>:<*> of size <*>,Received block blk_<*> of size <*> from /<*>,False
+0,System.delete: blk_<*> is added to invalidSet of <*>,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,False
+0,ReReceiving block blk_<*>:<*> dest: / <*>,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,False
+0,BLOCK* NameSystem.delete: blk_<*>,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,False
+0,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>:*>,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,False
+0,Receiving block blk_<*> dest: /<*>:<*>( <*>,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,False
+0,Deleting block blk_<*> file /<*>:,Deleting block blk_<*> file /<*>/blk_<*>,False
+0,ReceivingDeiving block blk_<*>: /<*>,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,False
+0,BLOCK* Name* NameSystem.addStoredBlock: <*> is added to blk_<*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,Requonder 1 for block blk_<*> terminating,PacketResponder <*> for block blk_<*> terminating,False
+0,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to blk_<*>.<*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,Receiving block blk_<*> src: /<*>:,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,False
+0,Packet_<*> for block blk_ <*> terminating,PacketResponder <*> for block blk_<*> terminating,False
+0,Receiving block blk_<*>,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,False
+0,BLOCK* Name blk_<*>:<*> is added to invalidSet of <*>,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,False
+0,ReceivedReceived block blk_<*> of size <*> from,Received block blk_<*> of size <*> from /<*>,False
+0,PacketResponder 0 for block blk_<*> terminating,PacketResponder <*> for block blk_<*> terminating,False
+0,PacketResponder <*> for block blk_<*>,PacketResponder <*> for block blk_<*> terminating,False
+0,System.addStoredBlock: blockMap updated: <*> is added to blk_<*> size,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,Deleting block blk_<*> file / <*>/blk_>,Deleting block blk_<*> file /<*>/blk_<*>,False
+0,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> size <*>:<*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to blk_<*> size,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,BLOCK* NameSystem.allocateBlock: /<*>,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,False
+0,Received block blk_<*>:<*> of size <*> from,Received block blk_<*> of size <*> from /<*>,False
+0,BL* NameSystem.addStoredBlock: blockMap updated: <*> is added to blk_<*>:,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,System <*>:<*> to /<*>: <*>,<*>:<*> Served block blk_<*> to /<*>,False
+0,Received block blk_<*> of size <*>: <*>,Received block blk_<*> of size <*> from /<*>,False
+0,System<*>:Got exception while serving blk_<*>: <*> to /<>,<*>:<*>:Got exception while serving blk_<*> to /<*>:,False
+0,System<*> to <*>: got exception while serving,<*>:<*>:Got exception while serving blk_<*> to /<*>:,False
+0,PacketResponder <*> for block blk_<*> terminating,PacketResponder <*> for block blk_<*> terminating,True
+0,System.delete: blk_<*> is added to invalidSet of <*>,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,False
+0,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to blk_<*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0, block blk__> file /<*>,Deleting block blk_<*> file /<*>/blk_<*>,False
+0,Deleting block blk_<*>,Deleting block blk_<*> file /<*>/blk_<*>,False
+0,Receiving block blk_<*>:<*>,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,False
+0,Receiving block blk_<*>:<*> src: /<> dest: /,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,False
+0,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to blk_<*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,Deleting block blk_<*> file /<*>:,Deleting block blk_<*> file /<*>/blk_<*>,False
+0,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to blk_<*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to blk_<*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,PacketResponder <*>:<*> terminating,PacketResponder <*> for block blk_<*> terminating,False
+0,PPacketResponder <*> for block blk_<*> terminating,PacketResponder <*> for block blk_<*> terminating,False
+0,Rece*>:Got exception while serving blk_<*> to /<*>: <*>:,<*>:<*>:Got exception while serving blk_<*> to /<*>:,False
+0,BLk_<*>:<*> of size <*>,Received block blk_<*> of size <*> from /<*>,False
+0,BL>:Got exception while serving blk_<*> to /<*>:,<*>:<*>:Got exception while serving blk_<*> to /<*>:,False
+0,BLk_<*> Served block blk_ <*> to / <*,<*>:<*> Served block blk_<*> to /<*>,False
+0,System.delete: blk_<*> is added to invalidSet of <*>,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,False
+0,PacketResponder <*> for block blk_<*>,PacketResponder <*> for block blk_<*> terminating,False
+0,System blk_<*> terminating,PacketResponder <*> for block blk_<*> terminating,False
+0,PacketResponder <*> for block blk_<*>,PacketResponder <*> for block blk_<*> terminating,False
+0,SystemSystem.delete: blk_<*>,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,False
+0,BLOCK* NameSystem.addStoredBlock: <*> is added to blk_<*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,Received block blk_<*> of size <*> from /<*>:,Received block blk_<*> of size <*> from /<*>,False
+0,PacketResponder 2 for block blk_<*>:<*> terminating,PacketResponder <*> for block blk_<*> terminating,False
+0,BLk_ <*> file /<*>,Deleting block blk_<*> file /<*>/blk_<*>,False
+0,PacketResponder <*> for block blk_<*>,PacketResponder <*> for block blk_<*> terminating,False
+0,Deleting block blk_/blk_<<*>,Deleting block blk_<*> file /<*>/blk_<*>,False
+0,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,False
+0,BLOCK* Name* NameSystem.addStoredBlock: <*> is added to blk_<*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,PacketResponder <*> for block blk_<*> terminating,PacketResponder <*> for block blk_<*> terminating,True
+0,Deleting block blk_<*>: <*> file /<*>,Deleting block blk_<*> file /<*>/blk_<*>,False
+0,BLOCK*> to replicate blk_<*>:*>,BLOCK* ask <*>:<*> to replicate blk_<*> to datanode(s) <*>:<*>,False
+0,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to blk_<*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,PacketResponder <*> for block blk_<*> terminating,PacketResponder <*> for block blk_<*> terminating,True
+0,PacketResponder 1 for block blk_<*> terminating,PacketResponder <*> for block blk_<*> terminating,False
+0,Receiving block blk_ <*>:<*>,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,False
+0,System_<* NameSystem.allocateBlock: /<*>,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,False
+0,BLOCK* NameBLk_<*> is added to invalidSet: <*>,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,False
+0,Rece*> Served block blk_<*>,<*>:<*> Served block blk_<*> to /<*>,False
+0, block blk_<*> of size <*>,Received block blk_<*> of size <*> from /<*>,False
+0,Received block blk_<*> of size <*>,Received block blk_<*> of size <*> from /<*>,False
+0,Received block blk_<*> of size <*> from / <*>:<*>.,Received block blk_<*> of size <*> from /<*>,False
+0,ReceivedBLk_<*> to /<*>:,<*>:<*>:Got exception while serving blk_<*> to /<*>:,False
+0,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to blk_<*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,Receiving block blk_<*> src: /<*>:<>,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,False
+0,BLBLk_<*> Serving block blk_ <*> to /<*>:,<*>:<*> Served block blk_<*> to /<*>,False
+0,BLOCK* Name System.addStoredBlock: blockMap updated: <*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>.<*>:<*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,Deleting block blk_<*> file /blk_ <*>,Deleting block blk_<*> file /<*>/blk_<*>,False
+0,BL* NameSystem.addStoredBlock: blockMap updated: <*> is added to blk_<*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,System.delete: blk__<*> is added to invalidSet of <*>,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,False
+0,System.delete: blk_<*> is added to invalidSet of <*>,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,False
+0,Recelling block blk_<*> of size,Received block blk_<*> of size <*> from /<*>,False
+0,System.allocateBlock: /<*>,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,False
+0,Deleting block blk_<*>,Deleting block blk_<*> file /<*>/blk_<*>,False
+0,BLk_ <*> file /*>/blk_<*>,Deleting block blk_<*> file /<*>/blk_<*>,False
+0,PacketResponder <*> for block blk_<*> terminating,PacketResponder <*> for block blk_<*> terminating,True
+0,Received block blk_<*> of size <*> from /<*>:,Received block blk_<*> of size <*> from /<*>,False
+0,ReivingReceiving block blk_<*> dest: /<*>:<*>. <*>,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,False
+0,Receiving block blk_<*>:<*> dest: /<*,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,False
+0,Deleting block blk_<*> file /*>,Deleting block blk_<*> file /<*>/blk_<*>,False
+0,PacketResponder 0 for block blk_<*> terminating,PacketResponder <*> for block blk_<*> terminating,False
+0,Deleting block blk_<*>,Deleting block blk_<*> file /<*>/blk_<*>,False
+0,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,BLOCK* Name* NameSystem.addStoredBlock: blockMap updated:<*> size <*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,"Receiving block blk_<*> src: /*> dest: /<*>:<*>, <*>",Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,False
+0,System.delete: blk_<* NameSystem.<*> is added to invalidSet of <*>,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,False
+0,Received block blk_<*> of size <*>: <*>,Received block blk_<*> of size <*> from /<*>,False
+0,BL* NameSystem.addStoredBlock: blockMap updated: <*> is added to blk_<*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,<*>:Got exception while serving blk_<*>:,<*>:<*>:Got exception while serving blk_<*> to /<*>:,False
+0,PacketResponder <*> for block blk_<*>,PacketResponder <*> for block blk_<*> terminating,False
+0,ReceReceiving block blk_<*> src*>,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,False
+0,BL* NameSystem.delete: blk_<*> is added to invalidSet of <*>,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,False
+0,PacketResponder <*> for block blk_<*> terminating,PacketResponder <*> for block blk_<*> terminating,True
+0,Deleting block blk_<*>,Deleting block blk_<*> file /<*>/blk_<*>,False
+0,PacketResponder <*> for block blk_<*> terminating,PacketResponder <*> for block blk_<*> terminating,True
+0,Received block blk_<*> of size <*> from /<*>:,Received block blk_<*> of size <*> from /<*>,False
+0,PacketResponder <*> for block blk_<*> terminating,PacketResponder <*> for block blk_<*> terminating,True
+0,Received block blk_<*>:<*> from / <*>,Received block blk_<*> of size <*> from /<*>,False
+0,BLOCK* Name* NameSystem.addStoredBlock: blockMap updated: <*> size <*>:<*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,BLOCK* NameBLSystem.addStoredBlock: blockMap updated: <*> size <*>:<*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,BLOCKBLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to blk_<*>:,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> size,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,BLOCKSystem.addStoredBlock: blockMap updated: <*> is added to blk_<*>:<*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> size <*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,SystemSystem.addStoredBlock: blockMap updated: <*> is added to blk_<*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> size <*>,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,System.allocateBlock: /part-<*>:<*>,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,False
+0,PacketResponder <*> for block blk_<*> terminating,PacketResponder <*> for block blk_<*> terminating,True
+0,Received blockReceiving block blk_<*>,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,False
+0,BLOCK* NameSystem.allocateBlock: /<*>,BLOCK* NameSystem.allocateBlock: /<*>/part-<*>. blk_<*>,False
+0,BLOCK* NameSystem.addStoredBlock: blockMap updated: updated: <*> is added to blk_-,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*>:<*> is added to blk_<*> size <*>,False
+0,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,False
+0,PacketResponder <*> for block blk_<*> terminating,PacketResponder <*> for block blk_<*> terminating,True
+0,BLOCK* NameSystem.delete: blk_<*>,BLOCK* NameSystem.delete: blk_<*> is added to invalidSet of <*>:<*>,False
+0,ReceivingReiving block blk_<*> src: /<*>: <*> dest: / <*>:,Receiving block blk_<*> src: /<*>:<*> dest: /<*>:<*>,False
+0,PacketResponder <*> for block blk_<*> terminating,PacketResponder <*> for block blk_<*> terminating,True
