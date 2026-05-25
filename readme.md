@@ -1,4 +1,45 @@
-# Automatic Log Template Extraction Using Large Language Models
+# Agentic LLM Pipeline — Automatic Log Template Extraction
+
+A multi-step agentic LLM evaluation pipeline for structured output 
+extraction from unstructured log data, using in-context learning (ICL) 
+and PEFT-based fine-tuning across multiple pretrained models.
+
+## Overview
+Unstructured system logs contain critical operational patterns that are 
+hard to extract reliably. This project builds an agentic, multi-step 
+LLM pipeline that extracts structured log templates from raw log text — 
+benchmarking four pretrained models with standardized evaluation metrics 
+and reproducible experiment storage.
+
+## Key Features
+- **Agentic multi-step pipeline** — document preprocessing → prompt 
+  construction → LLM generation → structured output extraction → 
+  evaluation, with state passed between steps
+- **4 pretrained models benchmarked** — GPT-2, T5, BART, InCoder 
+  evaluated under consistent conditions
+- **In-context learning (ICL)** — few-shot prompt engineering to guide 
+  structured output generation without full fine-tuning
+- **PEFT-based prefix tuning** — parameter-efficient fine-tuning applied 
+  to optimize structured extraction quality with minimal compute
+- **Standardized LLMOps evaluation** — ROUGE-1, ROUGE-2, ROUGE-L, BLEU, 
+  Parsing Accuracy (PA), Perfect Template Accuracy (PTA), 
+  Root Template Accuracy (RTA)
+- **Reproducible experiment storage** — all model outputs stored as 
+  structured JSON for downstream comparison and analysis
+- **RAG-adjacent retrieval** — source document chunking and context 
+  injection strategies to improve LLM grounding on long log files
+
+## Models
+| Model   | Approach         | Tuning        |
+|---------|-----------------|---------------|
+| GPT-2   | ICL few-shot    | Prefix tuning |
+| T5      | ICL few-shot    | Prefix tuning |
+| BART    | ICL few-shot    | Prefix tuning |
+| InCoder | ICL few-shot    | Prefix tuning |
+
+## Tech Stack
+Python · Hugging Face Transformers · PyTorch · PEFT · LangChain · 
+pandas · ROUGE · BLEU · JSON structured output storage
 
 ### Requirements
 
