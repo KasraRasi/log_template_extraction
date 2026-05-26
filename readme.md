@@ -1,5 +1,41 @@
-Automatic Log Template Extraction Using Large Language Models
-Requirements
+# Automatic Log Template Extraction Using Large Language Models
+
+Benchmarks 4 pretrained LLMs (GPT-2, InCoder, T5, BART) on structured 
+log template extraction using In-Context Learning (ICL) and 
+PEFT-based prefix tuning. Evaluates outputs with ROUGE-1/2/L, BLEU, 
+PA, PTA, and RTA metrics across multiple log datasets.
+
+## Problem
+
+System logs are unstructured — extracting reusable templates from raw 
+log messages manually doesn't scale. This project applies LLMs to 
+automate log template extraction (log parsing), replacing hand-crafted 
+rules and similarity thresholds used by traditional tools like Drain.
+
+## Approach
+
+Benchmarks 4 pretrained LLMs (GPT-2, InCoder, T5, BART) on structured 
+log template extraction using two techniques:
+- **ICL (In-Context Learning)** — few-shot prompting across all 4 models
+- **Prefix Tuning (PT)** — PEFT-based fine-tuning on T5 and BART
+
+## Datasets
+
+Evaluated on standard log parsing benchmarks including HDFS, BGL, 
+and other log datasets from the LogHub collection.
+
+## Metrics
+
+ROUGE-1, ROUGE-2, ROUGE-L, BLEU, Parsing Accuracy (PA), 
+Perfect Template Accuracy (PTA), Root Template Accuracy (RTA)
+
+## Results
+
+Results stored in:
+- `out/ICL/predictions` and `out/ICL/results` — ICL run outputs
+- `PT_results/` — prefix tuning outputs
+
+## Requirements
 
     Python 3.6 or later
     Hugging Face Transformers library
